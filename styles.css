@@ -1,9 +1,9 @@
 
 /* Your CSS Code here. */
-display: grid;
+.holder {display: grid;
     /* Set the grid to have 2 rows and 2 columns */
     grid-template-rows: repeat(2, 100px);
     grid-template-columns: repeat(2, 100px);
     /* Set the total width and height of the grid to 200px */
     width: 200px;
-    height: 200px;
+    height: 200px;}
